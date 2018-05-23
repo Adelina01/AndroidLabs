@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Лаб1 Казмірчук А.</string>
+    <string name="SelectProduct">Оберіть тип товару!</string>
+    <string name="madeSelect">Вітаємо! %1$s фірми %2$s дуже гарний вибір!</string>
+    <string name="makeSelect">Зробіть, будь ласка, свій вибір!</string>
+    <string name="Choose">Choose</string>
+
+</resources>

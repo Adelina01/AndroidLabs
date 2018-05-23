@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewLab4</string>
+    <string name="music">Музика</string>
+    <string name="video">Відео</string>
+    <string name="song">DREAM ON - Aerosmith</string>
+    <string name="multfilm">Мультфільм,що отримав 40 нагород - Single Life</string>
+    <string name="multfilmInternet">Мультфільм з інтернет-ресурсу</string>
+
+</resources>
